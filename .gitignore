@@ -1,0 +1,15 @@
+*.htm
+*.html
+*.css
+*.js
+*.sqlite
+*.db
+*.json
+*.data
+*.xml
+*.pyc
+*.txt
+*LICENSE
+
+capstone/pagerank/*.py
+capstone/gmane/*.py
